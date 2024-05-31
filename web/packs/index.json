@@ -2,7 +2,8 @@
   "packs": [
     "Best_meme_pack.json",
     "Yellow_funny_ball_meme.json",
-    "Bongo_Cat.json"
+    "Bongo_Cat.json",
+    "favs.json"
   ],
   "homeserver_url": "https://matrix.sakura.pm"
 }
