@@ -5,7 +5,8 @@
     "Bongo_Cat.json",
     "favs.json",
     "memes.json",
-    "cinamoroll.json"
+    "cinamoroll.json",
+    "emojis.json"
   ],
   "homeserver_url": "https://matrix.sakura.pm"
 }
